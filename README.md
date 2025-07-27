@@ -16,7 +16,7 @@ A Passionate Full Stack Software Developer From Lahore, Pakistan 💻
 <p align="left"> <a href="https://twitter.com/saad_mhmoood" target="blank"><img src="https://img.shields.io/twitter/follow/saad_mhmoood?logo=twitter&style=for-the-badge" alt="saad_mhmoood" /></a> </p>
 
 - 💻 I'm a Full Stack Web Developer.
-- 💡 I turn your ideas or designs into fully working, beautiful websites.
+- 💡 I turn your ideas or designs into fully working websites.
 - 👓 I specialize in both frontend and backend development.
 - 🔭 I’m currently working on **Back Track**
 - 🌱 I’m currently learning **AI/ML**
