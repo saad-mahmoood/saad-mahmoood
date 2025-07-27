@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Saad Mahmood</h1>
-<h3 align="center">Full Stack Software Developer</h3>
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://saad-mahmood.netlify.app/)
+<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Saad Mahmood</h1>
+<h3 align="center">A Passionate Full Stack Software Developer From Lahore, Pakistan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
@@ -15,11 +14,8 @@
 
 - 👨‍💻 All of my projects are available at [https://saad-mahmood.netlify.app/](https://saad-mahmood.netlify.app/)
 
-- 💬 Ask me about **MERN & Flutter**
 
 - 📫 How to reach me **saad.mhmoood@gmail.com**
-
-- 📄 Know about my experiences [https://saad-mahmood.netlify.app/Saad%20Mahmood%20-%20Resume.pdf](https://saad-mahmood.netlify.app/Saad%20Mahmood%20-%20Resume.pdf)
 
 - ⚡ Fun fact **I am not funny :(**
 
