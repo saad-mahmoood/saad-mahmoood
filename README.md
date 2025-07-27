@@ -22,13 +22,15 @@ A Passionate Full Stack Software Developer From Lahore, Pakistan 💻
 - 🌱 I’m currently learning **AI/ML**
 - 👨‍💻 All of my projects are available at [https://saad-mahmood.netlify.app/](https://saad-mahmood.netlify.app/]
 - 📫 How to reach me **saad.mhmoood@gmail.com**
-- ⚡ Fun fact **I am not funny :(**
 
 ---
 
 ## 🛠️ Tech Stack
 - **Frontend:** Javascript, Typescript, ReactJS, NextJS, Flutter, React Native, TailwindCSS
 - **Backend:** NodeJS, MongoDB, SQL, Firebase, PostgreSQL
+
+---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
