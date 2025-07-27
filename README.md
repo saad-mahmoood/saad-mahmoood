@@ -1,5 +1,12 @@
-<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Saad Mahmood</h1>
-<h3 align="center">A Passionate Full Stack Software Developer From Lahore, Pakistan</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saad Mahmood
+=================================================================================================================================
+
+A Passionate Full Stack Software Developer From Lahore, Pakistan 💻
+-----------------------------
+
+> My portfolio speaks louder than words — have a look! 🎯
+
+---
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
@@ -8,16 +15,20 @@
 
 <p align="left"> <a href="https://twitter.com/saad_mhmoood" target="blank"><img src="https://img.shields.io/twitter/follow/saad_mhmoood?logo=twitter&style=for-the-badge" alt="saad_mhmoood" /></a> </p>
 
+- 💻 I'm a Full Stack Web Developer.
+- 💡 I turn your ideas or designs into fully working, beautiful websites.
+- 👓 I specialize in both frontend and backend development.
 - 🔭 I’m currently working on **Back Track**
-
 - 🌱 I’m currently learning **AI/ML**
-
-- 👨‍💻 All of my projects are available at [https://saad-mahmood.netlify.app/](https://saad-mahmood.netlify.app/)
-
-
+- 👨‍💻 All of my projects are available at [https://saad-mahmood.netlify.app/](https://saad-mahmood.netlify.app/]
 - 📫 How to reach me **saad.mhmoood@gmail.com**
-
 - ⚡ Fun fact **I am not funny :(**
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** Javascript, Typescript, ReactJS, NextJS, Flutter, React Native, TailwindCSS
+- **Backend:** NodeJS, MongoDB, SQL, Firebase, PostgreSQL
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
