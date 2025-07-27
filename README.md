@@ -20,7 +20,7 @@ A Passionate Full Stack Software Developer From Lahore, Pakistan 💻
 - 👓 I specialize in both frontend and backend development.
 - 🔭 I’m currently working on **Back Track**
 - 🌱 I’m currently learning **AI/ML**
-- 👨‍💻 All of my projects are available at [https://saad-mahmood.netlify.app/]
+- 👨‍💻 All of my projects are available at https://saad-mahmood.netlify.app/
 - 📫 How to reach me **saad.mhmoood@gmail.com**
 
 ---
